@@ -117,9 +117,13 @@ sudo systemctl restart nginx
 
 **Шаг 7 (Тестируем)**
 http://192.168.1.103/api/products
+
 http://192.168.1.103/api/customers
+
 http://192.168.1.103/health
 
 Invoke-RestMethod http://192.168.1.103/api/products
+
 Invoke-RestMethod http://192.168.1.103/api/customers
+
 Invoke-RestMethod http://192.168.1.103/health

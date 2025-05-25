@@ -11,8 +11,11 @@ namespace MySimpleApi.Controllers
         public IActionResult Get()
         {
             var products = new[] {
-new Product { Id = 1, Name = "Apple" },
-new Product { Id = 2, Name = "Banana" }
+new Product { Id = 1, Name = "Pasta" },
+new Product { Id = 2, Name = "Cake" },
+new Product { Id = 3, Name = "Lime" },
+new Product { Id = 4, Name = "Cinnabon" },
+new Product { Id = 5, Name = "Oil" }
 };
             return Ok(products);
         }

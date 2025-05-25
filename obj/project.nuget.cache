@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LajMLmhTcxMpJi5Me7GlD2NJ/PmYohOo8dn+LcU80tcVZi6jseSlcCZh9xBdWXKehS9PjIFNibi34wRRQWx/mg==",
+  "dgSpecHash": "ck28KQA7eFU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Дмитрий\\Desktop\\ProjectNET\\MySimpleApi\\MySimpleApi.csproj",
+  "projectFilePath": "G:\\учёба\\Администрирование операционных систем\\MySimpleApi\\MySimpleApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Дмитрий\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Дмитрий\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Дмитрий\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "C:\\Users\\Дмитрий\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\Дмитрий\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\Дмитрий\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "C:\\Users\\Bilbo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Bilbo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Bilbo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Bilbo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Bilbo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Bilbo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -437,24 +437,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Дмитрий\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Bilbo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\ProjectNET\\MySimpleApi\\MySimpleApi.csproj",
+      "projectUniqueName": "G:\\учёба\\Администрирование операционных систем\\MySimpleApi\\MySimpleApi.csproj",
       "projectName": "MySimpleApi",
-      "projectPath": "C:\\Users\\Дмитрий\\Desktop\\ProjectNET\\MySimpleApi\\MySimpleApi.csproj",
-      "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Дмитрий\\Desktop\\ProjectNET\\MySimpleApi\\obj\\",
+      "projectPath": "G:\\учёба\\Администрирование операционных систем\\MySimpleApi\\MySimpleApi.csproj",
+      "packagesPath": "C:\\Users\\Bilbo\\.nuget\\packages\\",
+      "outputPath": "G:\\учёба\\Администрирование операционных систем\\MySimpleApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        "C:\\Users\\Bilbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -25,3 +25,30 @@ C:\Users\Дмитрий\Desktop\ProjectNET\MySimpleApi\obj\Debug\net6.0\refint\M
 C:\Users\Дмитрий\Desktop\ProjectNET\MySimpleApi\obj\Debug\net6.0\MySimpleApi.pdb
 C:\Users\Дмитрий\Desktop\ProjectNET\MySimpleApi\obj\Debug\net6.0\MySimpleApi.genruntimeconfig.cache
 C:\Users\Дмитрий\Desktop\ProjectNET\MySimpleApi\obj\Debug\net6.0\ref\MySimpleApi.dll
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\appsettings.Development.json
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\appsettings.json
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\MySimpleApi.exe
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\MySimpleApi.deps.json
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\MySimpleApi.runtimeconfig.json
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\MySimpleApi.dll
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\MySimpleApi.pdb
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\учёба\Администрирование операционных систем\MySimpleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.csproj.AssemblyReference.cache
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.AssemblyInfoInputs.cache
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.AssemblyInfo.cs
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.csproj.CoreCompileInputs.cache
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.MvcApplicationPartsAssemblyInfo.cs
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.MvcApplicationPartsAssemblyInfo.cache
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\staticwebassets.build.json
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\staticwebassets.development.json
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\scopedcss\bundle\MySimpleApi.styles.css
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.csproj.CopyComplete
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.dll
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\refint\MySimpleApi.dll
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.pdb
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\MySimpleApi.genruntimeconfig.cache
+G:\учёба\Администрирование операционных систем\MySimpleApi\obj\Debug\net6.0\ref\MySimpleApi.dll
